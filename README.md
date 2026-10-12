@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/thesoumyabratasaha-ai/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/thesoumyabratasaha-ai/LeetCode/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
