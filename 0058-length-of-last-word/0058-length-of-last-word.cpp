@@ -9,8 +9,8 @@ public:
             if (s[i] == ' ' && count != 0)
                 break;
         }
-        if (count == 0)
-            return 1;
+        //if (count == 0)
+        //    return 1;
         return count;
     }
 };
