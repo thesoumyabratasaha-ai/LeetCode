@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/thesoumyabratasaha-ai/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0058-length-of-last-word](https://github.com/thesoumyabratasaha-ai/LeetCode/tree/master/0058-length-of-last-word) |
 ## Linked List
 |  |
 | ------- |
